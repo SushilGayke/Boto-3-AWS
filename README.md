@@ -1,5 +1,5 @@
 
-# AWS EC2 and VPC Management Script
+# AWS EC2 and VPC Management Scripts
 
 This repository contains two Python scripts to automate the creation and deletion of AWS EC2 instances and associated VPC resources using Boto3, the AWS SDK for Python. These scripts are property of DevOps Shack.
 
