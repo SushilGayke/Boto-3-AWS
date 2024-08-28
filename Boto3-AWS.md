@@ -1,4 +1,4 @@
-# Steps to Execute the Script:
+# Steps to Execute the Scripts:
 
 1. **Ensure AWS CLI is configured**:
    ```bash
